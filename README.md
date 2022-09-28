@@ -1,4 +1,4 @@
-# Hi, i'm Vinicius, welcome to my profile!
+# Hi, i'm Victor, welcome to my profile!
 
 ### Nice to meet you! <img align= "right" src= "https://komarev.com/ghpvc/?username=">
 
@@ -23,12 +23,12 @@ ____
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
  
- <!---<a href= "https://www.linkedin.com/in/vinicius-maia-545000239/" target="_blank">
+ <a href= "https://www.linkedin.com/in/victor-ryan-b30aa8251/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a> 
- 
- <a href= "https://profile.codersrank.io/user/viniciusmaiam" target="_blank">
+
+ <a href= "https://profile.codersrank.io/user/victorryan3612/" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=">
  </a>
- --->
+ 
 </p>
